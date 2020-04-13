@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE018E4B", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 37.94046758, 
+		"ref_longitude": 23.75039635, 
+		"ref_altitude": 133, 
+		"contact_email": "g.j.kelidis@gmail.com", 
+		"description": "Quar_testing_gw" 
+	} 
+}
